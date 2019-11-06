@@ -146,7 +146,7 @@ body {
   align-items: flex-end;
 }
 .navagation a {
-  background-color: red;
+  color: black;
 }
 .title {
   font-size: 30px ;
